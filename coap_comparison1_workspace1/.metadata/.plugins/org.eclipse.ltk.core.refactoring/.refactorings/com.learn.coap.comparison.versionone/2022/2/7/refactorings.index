@@ -1,0 +1,10 @@
+1644302557935	Delete element
+1644525484392	Rename field 'expectedReceivedMessageNum'
+1644525497532	Rename local variable 'receivedMessageNum'
+1644525969153	Rename method 'startMyResource'
+1644525978806	Rename method 'stopMyResource'
+1644526277946	Rename field 'myUpdateTask1'
+1644526286929	Rename field 'myUpdateTask'
+1644526320779	Rename type 'MyTimerTaskForUpdate'
+1644526416115	Rename field 'statusUpdateMaxTimes'
+1644526743544	Rename field 'resourceFinished'

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.AfterEach"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.scenario1.californium.server.TestMain_JavaCoap_Obs_Server"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.scenario1.californium.client.TestMain_JavaCoap_Obs_Client"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.scenario1.javacoap.server.TestMain_JavaCoap_Obs_Server"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.scenario1.javacoap.client.TestMain_JavaCoap_Obs_Client"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.myutil.MyTimeUtil"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.IMyRunMainTest"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.AfterAll"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.learn.coap.comparison.versionone.scenario1.californium.server.TestObserverMain_Mwe"/>
+<fullyQualifiedTypeName name="com.mbed.coap.utils.Callback"/>
+<fullyQualifiedTypeName name="com.mbed.coap.client.CoapClient"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="org.eclipse.californium.core.config.CoapConfig"/>
+<fullyQualifiedTypeName name="java.security.PrivateKey"/>
+<fullyQualifiedTypeName name="org.eclipse.californium.elements.auth.RawPublicKeyIdentity"/>
+<fullyQualifiedTypeName name="java.security.KeyStore"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="javax.net.ssl.TrustManagerFactory"/>
+<fullyQualifiedTypeName name="java.security.cert.X509Certificate"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.logging.LogManager"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.AfterAll"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.AfterEach"/>
+<fullyQualifiedTypeName name="com.learn.mqtt.comparison.versionone.scenario1.pahomqtt.publisher.TestMain_Pahomqtt_Publisher"/>
+<fullyQualifiedTypeName name="com.learn.mqtt.comparison.versionone.scenario1.pahomqtt.subscriber.TestMain_Pahomqtt_Subscriber"/>
+<fullyQualifiedTypeName name="com.learn.mqtt.comparison.versionone.myutil.MyTimeUtil"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+<fullyQualifiedTypeName name="com.learn.mqtt.comparison.versionone.scenario1.hivemqttclient.publisher.TestMain_Hivemqmqttclient_Publisher"/>
+<fullyQualifiedTypeName name="com.learn.mqtt.comparison.versionone.scenario1.hivemqttclient.subscriber.TestMain_Hivemqmqttclient_Subscriber"/>
+<fullyQualifiedTypeName name="org.eclipse.paho.mqttv5.client.persist.MemoryPersistence"/>
+<fullyQualifiedTypeName name="org.eclipse.paho.mqttv5.client.MqttAsyncClient"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="com.hivemq.client.mqtt.lifecycle.MqttClientConnectedListener"/>
+<fullyQualifiedTypeName name="com.hivemq.client.mqtt.lifecycle.MqttClientConnectedContext"/>
+<fullyQualifiedTypeName name="com.hivemq.client.mqtt.MqttClientState"/>
+</qualifiedTypeNameHistroy>
